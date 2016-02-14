@@ -1,0 +1,28 @@
+name: Drive Safe. Drive Smart
+favicon: null
+layout_spectrum: 0.8155660370830446
+typography_spectrum: 0.7043358462397009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4575998291838914
+  lightness: 0.8448953975457698
+  saturation: 0.8831292991526425
+  rhythmicContrast: 0.44485695194453
+purpose: []
